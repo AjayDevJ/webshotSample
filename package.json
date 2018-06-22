@@ -1,0 +1,16 @@
+{
+  "name": "shotweb",
+  "version": "1.0.0",
+  "description": "Webshot and convert to image",
+  "main": "server.js",
+  "dependencies": {
+    "webshot": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
